@@ -1,0 +1,7 @@
+*.json
+*.lua
+**/node_modules/**
+./node_modules/**
+**/.{git,svn,hg}/**
+./.{git,svn,hg}/**
+./dist/**
